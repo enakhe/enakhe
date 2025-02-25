@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/izuagbesamuel" target="blank"><img src="https://img.shields.io/twitter/follow/izuagbesamuel?logo=twitter&style=for-the-badge" alt="izuagbesamuel" /></a> </p>
 
-- 🔭 I’m currently working on **ESMART (A Desktop Hotel Management Application)**
+- 🔭 I’m currently working on **A Cryptocurrency SaaS software for creating and minting solana tokens**
 
 - 🌱 I’m currently learning **Neural Networks, Augmented Reality using C#**
 
